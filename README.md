@@ -1,3 +1,3 @@
 Demo Card
 
-The description of the demo
+The description of the demo.
